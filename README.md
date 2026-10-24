@@ -4,7 +4,7 @@ Founder of [RVERE AI](https://rvere.ai), an AI front office built for government
 
 ## Background
 
-I started my career at J.P. Morgan as a coverage analyst in commercial banking, then moved into financial services consulting, where I helped build practices at EY and Alvarez & Marsal. That meant working with CEOs and boards, running large programs through a central PMO, and holding work to the quality and risk standards regulated industries require.
+I started my career at J.P. Morgan, then helped build financial services consulting practices at EY and Alvarez & Marsal. That meant working with CEOs and boards, running large programs through a central PMO, and holding work to the quality and risk standards regulated industries require.
 
 ## How I build RVERE
 
