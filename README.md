@@ -17,7 +17,6 @@ I'm not a traditional coder. I run RVERE's engineering the way a technical lead 
 - **8 required checks on every merge,** including supply-chain security, database migration permissions, AI answer-quality evals and workflow lint.
 - **Security review** before changes ship.
 - **Work-in-progress limits.** Open work gets merged before new work starts, so nothing sits half-finished.
-- **An agent team beyond code.** Grok Bot agents handle planning, QA, design, research and legal review alongside the coding agents.
 
 ## Stack
 
