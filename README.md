@@ -1,28 +1,24 @@
 # Andrew Diaz
 
-Founder of [RVERE AI](https://rvere.ai), the AI front office for government and enterprise, including campaigns. Based in Dallas, TX.
+Founder of [RVERE AI](https://rvere.ai), an AI front office built for government offices, campaigns and businesses. Based in Dallas, TX.
 
 ## What I'm building
 
-- **AI chat for the public.** Answers constituent and customer questions from a trusted knowledge base and hands off to staff when a person is needed.
-- **One inbox for staff.** A shared workload board, simple routing, and AI drafts that a person reviews and approves before anything goes out.
-- **Insights on demand.** Reporting on what people are asking about and which issues are trending, pulled whenever you need it.
+RVERE is in active development. The platform brings together:
+
+- **AI chat for the public.** Answers constituent and customer questions from the client's own approved content, with a path to a real person when one is needed.
+- **One inbox for staff.** A shared workload view, simple routing, and AI drafts that a person reviews and approves before anything goes out.
+- **Insights on demand.** Reporting on what people are asking about and which issues are trending.
 
 ## How I build
 
-I'm not a traditional coder. I run RVERE's engineering the way a technical lead runs a team, except the team is AI agents. I set the product direction, the guardrails and the definition of done. The agents write the code, and nothing merges without passing the same gates a disciplined engineering team would use.
+I run RVERE's engineering the way I'd lead a project team: clear scope, clear standards and nothing ships without review.
 
-- **Every change is tracked.** All work starts as a GitHub issue and ships as a reviewed pull request.
-- **Cross-model code review.** OpenAI Codex builds, and Anthropic Claude reviews Codex's work before it merges.
-- **8 required checks on every merge,** including supply-chain security, database migration permissions, AI answer-quality evals and workflow lint.
-- **Security review** before changes ship.
-- **Work-in-progress limits.** Open work gets merged before new work starts, so nothing sits half-finished.
+- Every change starts as a tracked issue and ships as a reviewed pull request.
+- I set the direction, the guardrails and the definition of done, and I review and approve what ships.
+- Different AI models check each other's work, and automated security and quality checks run on every change.
 
-## Stack
-
-[![Stack](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,postgres,vercel,cloudflare)](https://skillicons.dev)
-
-Next.js, React, TypeScript, Tailwind, Supabase (Postgres), Vercel and Cloudflare.
+Built on a modern TypeScript web stack.
 
 ## Contact
 
